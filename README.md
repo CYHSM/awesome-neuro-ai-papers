@@ -1,7 +1,7 @@
 # More AI
-Bengio, Yoshua, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. **Towards biologically plausible deep learning.** arXiv (2015).
-
 Eslami, SM Ali, Danilo Jimenez Rezende, Frederic Besse, Fabio Viola, Ari S. Morcos, Marta Garnelo, Avraham Ruderman et al. **Neural scene representation and rendering.** Science (2018)
+
+Bengio, Yoshua, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. **Towards biologically plausible deep learning.** arXiv (2015).
 
 # More Neuro
 Banino, Andrea, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel et al. **Vector-based navigation using grid-like representations in artificial agents.** Nature (2018)
