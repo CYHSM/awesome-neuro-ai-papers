@@ -12,3 +12,8 @@ Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. **Towards deep l
 
 Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Ethan A. Solomon, Najib J. Majaj, and James J. DiCarlo. **Deep neural networks rival the representation of primate IT cortex for core visual object recognition.** PLoS computational biology (2014)
 
+# Reviews
+
+Marblestone, Adam H., Greg Wayne, and Konrad P. Kording. **Toward an integration of deep learning and neuroscience.** Frontiers in computational neuroscience (2016)
+
+Hassabis, Demis, Dharshan Kumaran, Christopher Summerfield, and Matthew Botvinick. **Neuroscience-inspired artificial intelligence.** Neuron (2017)
