@@ -10,7 +10,11 @@ Rajalingham, Rishi, Elias B. Issa, Pouya Bashivan, Kohitij Kar, Kailyn Schmidt, 
 
 Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. **Towards deep learning with segregated dendrites.** ELife (2017).
 
+Güçlü, Umut, and Marcel AJ van Gerven. **Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream.** Journal of Neuroscience (2015)
+
 Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Ethan A. Solomon, Najib J. Majaj, and James J. DiCarlo. **Deep neural networks rival the representation of primate IT cortex for core visual object recognition.** PLoS computational biology (2014)
+
+
 
 # Reviews
 
