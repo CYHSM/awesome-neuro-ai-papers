@@ -1,5 +1,7 @@
 # Neuro AI Papers
 
+Kar, Kohitij, Jonas Kubilius, Kailyn M. Schmidt, Elias B. Issa, and James J. DiCarlo. **Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior.** Nature Neuroscience (2019)
+
 Russin, Jake, Jason Jo, and Randall C. O'Reilly. **Compositional generalization in a deep seq2seq model by separating syntax and semantics.** arXiv (2019)
 
 Rajalingham, Rishi, Elias B. Issa, Pouya Bashivan, Kohitij Kar, Kailyn Schmidt, and James J. DiCarlo. **Large-scale, high-resolution comparison of the core visual object recognition behavior of humans, monkeys, and state-of-the-art deep artificial neural networks.** Journal of Neuroscience (2018)
