@@ -1,5 +1,9 @@
 # Neuro AI Papers
 
+Nasr, Khaled, Pooja Viswanathan, and Andreas Nieder. **Number detectors spontaneously emerge in a deep neural network designed for visual object recognition.** Science Advances (2019)
+
+Bashivan, Pouya, Kohitij Kar, and James J. DiCarlo. **Neural population control via deep image synthesis.** Science (2019)
+
 Kar, Kohitij, Jonas Kubilius, Kailyn M. Schmidt, Elias B. Issa, and James J. DiCarlo. **Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior.** Nature Neuroscience (2019)
 
 Russin, Jake, Jason Jo, and Randall C. O'Reilly. **Compositional generalization in a deep seq2seq model by separating syntax and semantics.** arXiv (2019)
