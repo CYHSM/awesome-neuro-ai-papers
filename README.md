@@ -1,5 +1,7 @@
 # Neuro AI Papers
 
+Stefano Recanatesi, Matthew Farrell ,Guillaume Lajoie, Sophie Deneve, Mattia Rigotti, and Eric Shea-Brown [**Predictive learning extracts latent space representations from sensory observations**](https://www.biorxiv.org/content/biorxiv/early/2019/07/13/471987.full.pdf) BiorXiv (2019)
+
 Nasr, Khaled, Pooja Viswanathan, and Andreas Nieder. [**Number detectors spontaneously emerge in a deep neural network designed for visual object recognition.**](https://advances.sciencemag.org/content/5/5/eaav7903) Science Advances (2019)
 
 Bashivan, Pouya, Kohitij Kar, and James J. DiCarlo. [**Neural population control via deep image synthesis.**](https://science.sciencemag.org/content/364/6439/eaav9436) Science (2019)
