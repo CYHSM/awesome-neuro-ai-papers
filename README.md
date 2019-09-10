@@ -6,7 +6,7 @@ Nasr, Khaled, Pooja Viswanathan, and Andreas Nieder. [**Number detectors spontan
 
 Bashivan, Pouya, Kohitij Kar, and James J. DiCarlo. [**Neural population control via deep image synthesis.**](https://science.sciencemag.org/content/364/6439/eaav9436) Science (2019)
 
-Ponce, Carlos R., Will Xiao, Peter F. Schade, Till S. Hartmann, Gabriel Kreiman, and Margaret S. Livingstone. [**Evolving Images for Visual Neurons Using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences**] Cell (2019)
+Ponce, Carlos R., Will Xiao, Peter F. Schade, Till S. Hartmann, Gabriel Kreiman, and Margaret S. Livingstone. [**Evolving Images for Visual Neurons Using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences**](https://www.sciencedirect.com/science/article/pii/S0092867419303915) Cell (2019)
 
 Kar, Kohitij, Jonas Kubilius, Kailyn M. Schmidt, Elias B. Issa, and James J. DiCarlo. [**Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior.**](https://www.nature.com/articles/s41593-019-0392-5) Nature Neuroscience (2019)
 
