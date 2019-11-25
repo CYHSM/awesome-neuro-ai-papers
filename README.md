@@ -39,6 +39,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+Richards, Blake A., Timothy P. Lillicrap, Philippe Beaudoin, Yoshua Bengio, Rafal Bogacz, Amelia Christensen, Claudia Clopath et al. [**A deep learning framework for neuroscience.**](https://www.nature.com/articles/s41593-019-0520-2) Nature neuroscience (2019)
+
 Hassabis, Demis, Dharshan Kumaran, Christopher Summerfield, and Matthew Botvinick. [**Neuroscience-inspired artificial intelligence.**](https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3) Neuron (2017)
 
 Lake, Brenden M., Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. [**Building machines that learn and think like people.**](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9535B1D745A0377E16C590E14B94993/S0140525X16001837a.pdf/building_machines_that_learn_and_think_like_people.pdf) Behavioral and brain sciences (2017). 
