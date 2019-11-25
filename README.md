@@ -1,5 +1,15 @@
 # Neuro AI Papers
 
+Sara Hooker, Aaron Courville, Yann Dauphin, Andrea Frome [**Selective Brain Damage: Measuring the Disparate Impact of Model Pruning**](https://arxiv.org/abs/1911.05248) arXiv (2019)
+
+Alessio Ansuini, Alessandro Laio, Jakob H. Macke, Davide Zoccolan [**Intrinsic dimension of data representations in deep neural networks**](https://arxiv.org/abs/1905.12784) arXiv (2019)
+
+Josh Merel, Diego Aldarondo, Jesse Marshall, Yuval Tassa, Greg Wayne, Bence Ölveczky [**Deep neuroethology of a virtual rodent**](https://arxiv.org/abs/1911.09451) arXiv (2019)
+
+Zhe Li, Wieland Brendel, Edgar Y. Walker, Erick Cobos, Taliah Muhammad, Jacob Reimer, Matthias Bethge, Fabian H. Sinz, Xaq Pitkow, Andreas S. Tolias [**Learning From Brains How to Regularize Machines**](https://arxiv.org/abs/1911.05072) arXiv (2019)
+
+Hidenori Tanaka, Aran Nayebi, Niru Maheswaranathan, Lane McIntosh, Stephen Baccus, Surya Ganguli [**From deep learning to mechanistic understanding in neuroscience: the structure of retinal prediction**](https://papers.nips.cc/paper/9060-from-deep-learning-to-mechanistic-understanding-in-neuroscience-the-structure-of-retinal-prediction) NeurIPS (2019)
+
 Stefano Recanatesi, Matthew Farrell ,Guillaume Lajoie, Sophie Deneve, Mattia Rigotti, and Eric Shea-Brown [**Predictive learning extracts latent space representations from sensory observations**](https://www.biorxiv.org/content/biorxiv/early/2019/07/13/471987.full.pdf) BiorXiv (2019)
 
 Nasr, Khaled, Pooja Viswanathan, and Andreas Nieder. [**Number detectors spontaneously emerge in a deep neural network designed for visual object recognition.**](https://advances.sciencemag.org/content/5/5/eaav7903) Science Advances (2019)
