@@ -1,5 +1,9 @@
 # Neuro AI Papers
 
+Albert Gidon, Timothy Adam Zolnik, Pawel Fidzinski, Felix Bolduan, Athanasia Papoutsi, Panayiota Poirazi, Martin Holtkamp, Imre Vida, Matthew Evan Larkum [**Dendritic action potentials and computation in human layer 2/3 cortical neurons**](https://science.sciencemag.org/content/367/6473/83.long) Science (2019)
+
+Ben Sorscher, Gabriel C. Mel, Surya Ganguli, Samuel A. Ocko [**A unified theory for the origin of grid cells through the lens of pattern formation**](https://papers.nips.cc/paper/9191-a-unified-theory-for-the-origin-of-grid-cells-through-the-lens-of-pattern-formation.pdf) NeurIPS (2019)
+
 Sara Hooker, Aaron Courville, Yann Dauphin, Andrea Frome [**Selective Brain Damage: Measuring the Disparate Impact of Model Pruning**](https://arxiv.org/abs/1911.05248) arXiv (2019)
 
 Alessio Ansuini, Alessandro Laio, Jakob H. Macke, Davide Zoccolan [**Intrinsic dimension of data representations in deep neural networks**](https://arxiv.org/abs/1905.12784) arXiv (2019)
