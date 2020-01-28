@@ -1,5 +1,8 @@
 # Neuro AI Papers
 
+Guillaume Bellec, Franz Scherr, Anand Subramoney, Elias Hajek, Darjan Salaj, Robert Legenstein, Wolfgang Maass
+[**A solution to the learning dilemma for recurrent 2 networks of spiking neurons**](https://www.biorxiv.org/content/10.1101/738385v3) bioRxiv (2019)
+
 Albert Gidon, Timothy Adam Zolnik, Pawel Fidzinski, Felix Bolduan, Athanasia Papoutsi, Panayiota Poirazi, Martin Holtkamp, Imre Vida, Matthew Evan Larkum [**Dendritic action potentials and computation in human layer 2/3 cortical neurons**](https://science.sciencemag.org/content/367/6473/83.long) Science (2019)
 
 Ben Sorscher, Gabriel C. Mel, Surya Ganguli, Samuel A. Ocko [**A unified theory for the origin of grid cells through the lens of pattern formation**](https://papers.nips.cc/paper/9191-a-unified-theory-for-the-origin-of-grid-cells-through-the-lens-of-pattern-formation.pdf) NeurIPS (2019)
