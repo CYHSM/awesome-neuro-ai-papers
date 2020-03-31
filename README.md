@@ -1,4 +1,7 @@
 # Neuro AI Papers
+Joseph G. Makin, David A. Moses, Edward F. Chang 
+[**Machine translation of cortical activity to text with an encoder–decoder framework**](https://www.nature.com/articles/s41593-020-0608-8) Nature Neuroscience (2020)
+
 Beniaguev David, Segev Idan, London Michael
 [**Single Cortical Neurons as Deep Artificial Neural Networks**](https://www.biorxiv.org/content/10.1101/613141v1.full.pdf) bioRxiv (2019)
 
