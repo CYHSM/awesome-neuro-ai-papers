@@ -1,4 +1,6 @@
 # Neuro AI Papers
+Beniaguev David, Segev Idan, London Michael
+[**Single Cortical Neurons as Deep Artificial Neural Networks**](https://www.biorxiv.org/content/10.1101/613141v1.full.pdf) bioRxiv (2019)
 
 Guillaume Bellec, Franz Scherr, Anand Subramoney, Elias Hajek, Darjan Salaj, Robert Legenstein, Wolfgang Maass
 [**A solution to the learning dilemma for recurrent 2 networks of spiking neurons**](https://www.biorxiv.org/content/10.1101/738385v3) bioRxiv (2019)
