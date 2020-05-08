@@ -1,4 +1,6 @@
 # Neuro AI Papers
+van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
+
 Joseph G. Makin, David A. Moses, Edward F. Chang 
 [**Machine translation of cortical activity to text with an encoder–decoder framework**](https://www.nature.com/articles/s41593-020-0608-8) Nature Neuroscience (2020)
 
