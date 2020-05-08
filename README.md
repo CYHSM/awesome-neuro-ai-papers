@@ -50,6 +50,7 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 
 # Reviews
+Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backpropagation and the brain**](https://www.nature.com/articles/s41583-020-0277-3) Nature Reviews Neuroscience, 2020
 
 Saxe, A., Nelli, S. & Summerfield, C. (2018). [**If deep learning is the answer, then what is the question?**](https://arxiv.org/abs/2004.07580) arXiv, 2020
 
