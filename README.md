@@ -52,17 +52,20 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 
 # Reviews
-Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backpropagation and the brain**](https://www.nature.com/articles/s41583-020-0277-3) Nature Reviews Neuroscience, 2020
 
-Saxe, A., Nelli, S. & Summerfield, C. (2018). [**If deep learning is the answer, then what is the question?**](https://arxiv.org/abs/2004.07580) arXiv, 2020
+Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backpropagation and the brain**](https://www.nature.com/articles/s41583-020-0277-3) Nature Reviews Neuroscience, (2020)
+
+Saxe, A., Nelli, S. & Summerfield, C. (2018). [**If deep learning is the answer, then what is the question?**](https://arxiv.org/abs/2004.07580) arXiv, (2020)
 
 Hasson, U., Nastase, S. A., & Goldstein, A. [**Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks.**](https://www.sciencedirect.com/science/article/abs/pii/S089662731931044X) Neuron (2020)
 
 Storrs, K. R., & Kriegeskorte, N. [**Deep learning for cognitive neuroscience.**](https://arxiv.org/pdf/1903.01458.pdf) arXiv (2019)
 
+Zador, M.Z. [**A critique of pure learning and what artificial neural networks can learn from animal brains**](https://www.nature.com/articles/s41467-019-11786-6), Nature Communications, (2019)
+
 Richards, Blake A., Timothy P. Lillicrap, Philippe Beaudoin, Yoshua Bengio, Rafal Bogacz, Amelia Christensen, Claudia Clopath et al. [**A deep learning framework for neuroscience.**](https://www.nature.com/articles/s41593-019-0520-2) Nature neuroscience (2019)
 
-Kietzmann, T. C., McClure, P., & Kriegeskorte, N. (2018). [**Deep neural networks in computational neuroscience**](https://www.biorxiv.org/content/biorxiv/early/2018/06/05/133504.full.pdf) BioRxiv, 2018
+Kietzmann, T. C., McClure, P., & Kriegeskorte, N. (2018). [**Deep neural networks in computational neuroscience**](https://www.biorxiv.org/content/biorxiv/early/2018/06/05/133504.full.pdf) BioRxiv, (2018)
 
 Hassabis, Demis, Dharshan Kumaran, Christopher Summerfield, and Matthew Botvinick. [**Neuroscience-inspired artificial intelligence.**](https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3) Neuron (2017)
 
