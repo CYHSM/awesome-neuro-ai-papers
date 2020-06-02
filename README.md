@@ -1,7 +1,5 @@
 # Neuro AI Papers
 
-Krotov, D. & Hopfield, J.J. [**Unsupervised learning by competing hidden units**](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) PNAS (2020)
-
 van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
 
 Joseph G. Makin, David A. Moses, Edward F. Chang 
@@ -9,6 +7,8 @@ Joseph G. Makin, David A. Moses, Edward F. Chang
 
 Beniaguev David, Segev Idan, London Michael
 [**Single Cortical Neurons as Deep Artificial Neural Networks**](https://www.biorxiv.org/content/10.1101/613141v1.full.pdf) bioRxiv (2019)
+
+Krotov, D. & Hopfield, J.J. [**Unsupervised learning by competing hidden units**](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) PNAS (2019)
 
 Guillaume Bellec, Franz Scherr, Anand Subramoney, Elias Hajek, Darjan Salaj, Robert Legenstein, Wolfgang Maass
 [**A solution to the learning dilemma for recurrent 2 networks of spiking neurons**](https://www.biorxiv.org/content/10.1101/738385v3) bioRxiv (2019)
