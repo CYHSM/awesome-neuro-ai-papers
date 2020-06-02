@@ -1,4 +1,7 @@
 # Neuro AI Papers
+
+Krotov, D. & Hopfield, J.J. [**Unsupervised learning by competing hidden units**](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) PNAS (2020)
+
 van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
 
 Joseph G. Makin, David A. Moses, Edward F. Chang 
