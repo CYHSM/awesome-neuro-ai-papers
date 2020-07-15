@@ -1,4 +1,4 @@
-# Neuro AI Papers
+# Papers
 
 van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
 
@@ -57,6 +57,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 
 # Reviews
+
+Botvinick, M., Wang, J.X., Dabney, W., Miller, K.J., Kurth-Nelson, Z. [**Deep Reinforcement Learning and Its Neuroscientific Implications**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30468-2) Neuron (2020)
 
 Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backpropagation and the brain**](https://www.nature.com/articles/s41583-020-0277-3) Nature Reviews Neuroscience, (2020)
 
