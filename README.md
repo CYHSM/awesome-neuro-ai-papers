@@ -60,6 +60,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+Bermudez-Contreras, E., Clark, B.J., Wilber, A. [**The Neuroscience of Spatial Navigation and the Relationship to Artificial Intelligence**](https://www.frontiersin.org/articles/10.3389/fncom.2020.00063/full) Front. Comput. Neurosci. (2020)
+
 Botvinick, M., Wang, J.X., Dabney, W., Miller, K.J., Kurth-Nelson, Z. [**Deep Reinforcement Learning and Its Neuroscientific Implications**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30468-2) Neuron (2020)
 
 Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backpropagation and the brain**](https://www.nature.com/articles/s41583-020-0277-3) Nature Reviews Neuroscience, (2020)
