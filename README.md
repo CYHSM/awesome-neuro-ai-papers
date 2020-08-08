@@ -1,3 +1,11 @@
+# Awesome NeuroAI Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+[<img src="awesome_neuroai.png" align="right" width="100" title="Awesome NeuroAI">](https://github.com/CYHSM/awesome-neuro-ai-papers)
+
+> A curated list of [Papers](https://github.com/CYHSM/awesome-neuro-ai-papers#papers) & [Reviews](https://github.com/CYHSM/awesome-neuro-ai-papers#reviews) from the intersection of deep learning and neuroscience
+
+This list is providing an overview of recent publications connecting neuroscience & computer science research. As both fields are growing rapidly this list is only presenting a small subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/CYHSM/awesome-neuro-ai-papers/pulls).
+
 # Papers
 
 Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/pdf/2007.01378.pdf) arXiv (2020)
