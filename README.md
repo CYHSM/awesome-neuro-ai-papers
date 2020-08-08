@@ -1,6 +1,10 @@
-# Awesome NeuroAI Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+<p align="center">
+  <br>
+    <img src="awesome_neuroai.png" width="150"/>
+  <br>
+</p>
 
-[<img src="awesome_neuroai.png" align="right" width="100" title="Awesome NeuroAI">](https://github.com/CYHSM/awesome-neuro-ai-papers)
+# Awesome NeuroAI Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 > A curated list of [Papers](https://github.com/CYHSM/awesome-neuro-ai-papers#papers) & [Reviews](https://github.com/CYHSM/awesome-neuro-ai-papers#reviews) from the intersection of deep learning and neuroscience
 
