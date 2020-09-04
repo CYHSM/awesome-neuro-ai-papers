@@ -78,7 +78,7 @@ Botvinick, M., Wang, J.X., Dabney, W., Miller, K.J., Kurth-Nelson, Z. [**Deep Re
 
 Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backpropagation and the brain**](https://www.nature.com/articles/s41583-020-0277-3) Nature Reviews Neuroscience, (2020)
 
-Saxe, A., Nelli, S. & Summerfield, C. (2018). [**If deep learning is the answer, then what is the question?**](https://arxiv.org/abs/2004.07580) arXiv, (2020)
+Saxe, A., Nelli, S. & Summerfield, C. [**If deep learning is the answer, then what is the question?**](https://arxiv.org/abs/2004.07580) arXiv, (2020)
 
 Hasson, U., Nastase, S. A., & Goldstein, A. [**Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks.**](https://www.sciencedirect.com/science/article/abs/pii/S089662731931044X) Neuron (2020)
 
