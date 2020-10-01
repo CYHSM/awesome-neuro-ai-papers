@@ -12,6 +12,10 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Guangyu Robert Yang, Xiao-Jing Wang [**Artificial Neural Networks for Neuroscientists: A Primer**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30705-4) Neuron (2020)
+
+Glaser G.I., Benjamin, S.A., Chowdhury, H.R., Perich G.M., Miller, L.E., Kording, K.P. [**Machine Learning for Neural Decoding**](https://www.eneuro.org/content/7/4/ENEURO.0506-19.2020) eNeuro (2020)
+
 Jones, I. S., & Kording, K. P. [**Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees**](https://arxiv.org/abs/2009.01269) arXiv (2020)
 
 Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/pdf/2007.01378.pdf) arXiv (2020)
