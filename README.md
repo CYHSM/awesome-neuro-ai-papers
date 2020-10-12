@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Tyler Bonnen, Daniel L.K. Yaminsa, Anthony D. Wagner [**When the ventral visual stream is not enough: A deep learning account of medial temporal lobe involvement in perception**](https://www.biorxiv.org/content/10.1101/2020.10.07.327171v1.full.pdf) bioRxiv (2020)
+
 Guangyu Robert Yang, Xiao-Jing Wang [**Artificial Neural Networks for Neuroscientists: A Primer**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30705-4) Neuron (2020)
 
 Glaser G.I., Benjamin, S.A., Chowdhury, H.R., Perich G.M., Miller, L.E., Kording, K.P. [**Machine Learning for Neural Decoding**](https://www.eneuro.org/content/7/4/ENEURO.0506-19.2020) eNeuro (2020)
