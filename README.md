@@ -11,6 +11,7 @@
 This list is providing an overview of recent publications connecting neuroscience & computer science research. As both fields are growing rapidly this list is only presenting a small subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/CYHSM/awesome-neuro-ai-papers/pulls).
 
 # Papers
+Chengxu Zhuang, Siming Yan, Aran Nayebi, Martin Schrimpf, Michael C. Frank, James J. DiCarlo, Daniel L. K. Yamins [**Unsupervised Neural Network Models of the Ventral Visual Stream**](https://www.biorxiv.org/content/10.1101/2020.06.16.155556v1.full.pdf) bioRxiv (2020)
 
 Tyler Bonnen, Daniel L.K. Yaminsa, Anthony D. Wagner [**When the ventral visual stream is not enough: A deep learning account of medial temporal lobe involvement in perception**](https://www.biorxiv.org/content/10.1101/2020.10.07.327171v1.full.pdf) bioRxiv (2020)
 
