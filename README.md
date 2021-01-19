@@ -26,6 +26,8 @@ Glaser G.I., Benjamin, S.A., Chowdhury, H.R., Perich G.M., Miller, L.E., Kording
 
 Jones, I. S., & Kording, K. P. [**Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees**](https://arxiv.org/abs/2009.01269) arXiv (2020)
 
+Geirhos, R., Narayanappa, K., Mitzkus, B., Bethge, M., Wichmann, F. A., & Brendel, W. [**On the surprising similarities between supervised and self-supervised models**](https://arxiv.org/abs/2010.08377) arXiv (2020)
+
 Storrs, K. R., Kietzmann, T. C., Walther, A., Mehrer, J., & Kriegeskorte, N. [**Diverse deep neural networks all predict human IT well, after training and fitting**](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1.abstract) bioRxiv (2020)
 
 Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/pdf/2007.01378.pdf) arXiv (2020)
@@ -36,6 +38,8 @@ Joseph G. Makin, David A. Moses, Edward F. Chang
 [**Machine translation of cortical activity to text with an encoder–decoder framework**](https://www.nature.com/articles/s41593-020-0608-8) Nature Neuroscience (2020)
 
 Richards, B. A., & Lillicrap, T. P. [**Dendritic solutions to the credit assignment problem**](https://www.sciencedirect.com/science/article/pii/S0959438818300485) Current opinion in neurobiology (2019)
+
+Sinz, F. H., Pitkow, X., Reimer, J., Bethge, M., & Tolias, A. S. [**Engineering a less artificial intelligence**](https://www.sciencedirect.com/science/article/pii/S0896627319307408) Neuron (2019)
 
 Kubilius, J., Schrimpf, M., Kar, K., Rajalingham, R., Hong, H., Majaj, N. & DiCarlo, J. J. [**Brain-like object recognition with high-performing shallow recurrent ANNs**](https://papers.nips.cc/paper/2019/hash/7813d1590d28a7dd372ad54b5d29d033-Abstract.html) Advances in Neural Information Processing Systems (2019)
 
@@ -58,6 +62,8 @@ Adam Gaier, David Ha [**Weight Agnostic Neural Networks**](https://arxiv.org/abs
 Ben Sorscher, Gabriel C. Mel, Surya Ganguli, Samuel A. Ocko [**A unified theory for the origin of grid cells through the lens of pattern formation**](https://papers.nips.cc/paper/9191-a-unified-theory-for-the-origin-of-grid-cells-through-the-lens-of-pattern-formation.pdf) NeurIPS (2019)
 
 Sara Hooker, Aaron Courville, Yann Dauphin, Andrea Frome [**Selective Brain Damage: Measuring the Disparate Impact of Model Pruning**](https://arxiv.org/abs/1911.05248) arXiv (2019)
+
+Walker, E. Y., Sinz, F. H., Cobos, E., Muhammad, T., Froudarakis, E., Fahey, P. G. & Tolias, A. S. [**Inception loops discover what excites neurons most using deep predictive models**](https://www.nature.com/articles/s41593-019-0517-x) Nature neuroscience (2019)
 
 Alessio Ansuini, Alessandro Laio, Jakob H. Macke, Davide Zoccolan [**Intrinsic dimension of data representations in deep neural networks**](https://arxiv.org/abs/1905.12784) arXiv (2019)
 
