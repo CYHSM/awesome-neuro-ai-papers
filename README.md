@@ -11,6 +11,11 @@
 This list is providing an overview of recent publications connecting neuroscience & computer science research. As both fields are growing rapidly this list is only presenting a small subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/CYHSM/awesome-neuro-ai-papers/pulls).
 
 # Papers
+
+Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. [**The Tolman-Eichenbaum machine: Unifying space and relational memory through generalization in the hippocampal formation**](https://www.sciencedirect.com/science/article/pii/S009286742031388X) Cell (2020)
+
+Banino, A., Badia, A. P., Köster, R., Chadwick, M. J., Zambaldi, V., Hassabis, D. & Blundell, C. [**Memo: A deep network for flexible combination of episodic memories**](https://arxiv.org/abs/2001.10913) arXiv (2020)
+
 Chengxu Zhuang, Siming Yan, Aran Nayebi, Martin Schrimpf, Michael C. Frank, James J. DiCarlo, Daniel L. K. Yamins [**Unsupervised Neural Network Models of the Ventral Visual Stream**](https://www.biorxiv.org/content/10.1101/2020.06.16.155556v1.full.pdf) bioRxiv (2020)
 
 Tyler Bonnen, Daniel L.K. Yaminsa, Anthony D. Wagner [**When the ventral visual stream is not enough: A deep learning account of medial temporal lobe involvement in perception**](https://www.biorxiv.org/content/10.1101/2020.10.07.327171v1.full.pdf) bioRxiv (2020)
@@ -21,6 +26,8 @@ Glaser G.I., Benjamin, S.A., Chowdhury, H.R., Perich G.M., Miller, L.E., Kording
 
 Jones, I. S., & Kording, K. P. [**Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees**](https://arxiv.org/abs/2009.01269) arXiv (2020)
 
+Storrs, K. R., Kietzmann, T. C., Walther, A., Mehrer, J., & Kriegeskorte, N. [**Diverse deep neural networks all predict human IT well, after training and fitting**](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1.abstract) bioRxiv (2020)
+
 Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/pdf/2007.01378.pdf) arXiv (2020)
 
 van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
@@ -28,7 +35,13 @@ van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: th
 Joseph G. Makin, David A. Moses, Edward F. Chang 
 [**Machine translation of cortical activity to text with an encoder–decoder framework**](https://www.nature.com/articles/s41593-020-0608-8) Nature Neuroscience (2020)
 
+Richards, B. A., & Lillicrap, T. P. [**Dendritic solutions to the credit assignment problem**](https://www.sciencedirect.com/science/article/pii/S0959438818300485) Current opinion in neurobiology (2019)
+
+Kubilius, J., Schrimpf, M., Kar, K., Rajalingham, R., Hong, H., Majaj, N. & DiCarlo, J. J. [**Brain-like object recognition with high-performing shallow recurrent ANNs**](https://papers.nips.cc/paper/2019/hash/7813d1590d28a7dd372ad54b5d29d033-Abstract.html) Advances in Neural Information Processing Systems (2019)
+
 Barrett, D. G., Morcos, A. S., & Macke, J. H. [**Analyzing biological and artificial neural networks: challenges with opportunities for synergy?**](https://www.sciencedirect.com/science/article/pii/S0959438818301569) Current opinion in neurobiology (2019)
+
+Stringer, C., Pachitariu, M., Steinmetz, N., Carandini, M., & Harris, K. D. [**High-dimensional geometry of population responses in visual cortex**](https://www.nature.com/articles/s41586-019-1346-5) Nature (2019)
 
 Beniaguev David, Segev Idan, London Michael
 [**Single Cortical Neurons as Deep Artificial Neural Networks**](https://www.biorxiv.org/content/10.1101/613141v1.full.pdf) bioRxiv (2019)
