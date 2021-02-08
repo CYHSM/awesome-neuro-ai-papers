@@ -26,6 +26,8 @@ Glaser G.I., Benjamin, S.A., Chowdhury, H.R., Perich G.M., Miller, L.E., Kording
 
 Jones, I. S., & Kording, K. P. [**Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees**](https://arxiv.org/abs/2009.01269) arXiv (2020)
 
+Rolnick, D., & Kording, K. [**Reverse-engineering deep ReLU networks**](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf) ICML (2020)
+
 Geirhos, R., Narayanappa, K., Mitzkus, B., Bethge, M., Wichmann, F. A., & Brendel, W. [**On the surprising similarities between supervised and self-supervised models**](https://arxiv.org/abs/2010.08377) arXiv (2020)
 
 Storrs, K. R., Kietzmann, T. C., Walther, A., Mehrer, J., & Kriegeskorte, N. [**Diverse deep neural networks all predict human IT well, after training and fitting**](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1.abstract) bioRxiv (2020)
