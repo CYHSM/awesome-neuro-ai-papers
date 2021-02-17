@@ -95,6 +95,8 @@ Banino, Andrea, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap
 
 Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. [**Towards deep learning with segregated dendrites.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716677/) ELife (2017).
 
+Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems**](https://arxiv.org/abs/1609.09059) arXiv (2017)
+
 Bengio, Yoshua, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [**Towards biologically plausible deep learning.**](https://arxiv.org/abs/1502.04156) arXiv (2015).
 
 Güçlü, Umut, and Marcel AJ van Gerven. [**Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream.**](http://www.jneurosci.org/content/35/27/10005) Journal of Neuroscience (2015)
