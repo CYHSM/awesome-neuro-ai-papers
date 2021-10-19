@@ -108,6 +108,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+Hasselmo, M. E., Alexander, A. S., Hoyland, A., Robinson, J. C., Bezaire, M. J., Chapman, G. W., ... & Dannenberg, H. [**The Unexplored Territory of Neural Models: Potential Guides for Exploring the Function of Metabotropic Neuromodulation**](https://www.sciencedirect.com/science/article/abs/pii/S0306452220302141) Neuroscience (2021)
+
 Bermudez-Contreras, E., Clark, B.J., Wilber, A. [**The Neuroscience of Spatial Navigation and the Relationship to Artificial Intelligence**](https://www.frontiersin.org/articles/10.3389/fncom.2020.00063/full) Front. Comput. Neurosci. (2020)
 
 Botvinick, M., Wang, J.X., Dabney, W., Miller, K.J., Kurth-Nelson, Z. [**Deep Reinforcement Learning and Its Neuroscientific Implications**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30468-2) Neuron (2020)
