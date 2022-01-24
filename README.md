@@ -14,6 +14,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contributions to category learning**](https://www.biorxiv.org/content/10.1101/2022.01.12.476051v1.full.pdf) bioRxiv (2022)
 
+Whittington, J. C., Warren, J., & Behrens, T. E. [**Relating transformers to models and neural representations of the hippocampal formation**](https://arxiv.org/abs/2112.04035) arXiv (2021)
+
 Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. [**The Tolman-Eichenbaum machine: Unifying space and relational memory through generalization in the hippocampal formation**](https://www.sciencedirect.com/science/article/pii/S009286742031388X) Cell (2020)
 
 Banino, A., Badia, A. P., Köster, R., Chadwick, M. J., Zambaldi, V., Hassabis, D. & Blundell, C. [**Memo: A deep network for flexible combination of episodic memories**](https://arxiv.org/abs/2001.10913) arXiv (2020)
