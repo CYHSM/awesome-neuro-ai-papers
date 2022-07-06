@@ -101,6 +101,8 @@ Eslami, SM Ali, Danilo Jimenez Rezende, Frederic Besse, Fabio Viola, Ari S. Morc
 
 Banino, Andrea, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel et al. [**Vector-based navigation using grid-like representations in artificial agents.**](https://www.nature.com/articles/s41586-018-0102-6) Nature (2018)
 
+Schrimpf, Martin, Kubilius, Jonas, Hong, Ha, Majaj, Najib J., Rajalingham, Rishi, Issa, Elias B., Kar, Kohitij, Bashivan, Pouya, Prescott-Roy, Jonathan, Geiger, Franziska, Schmidt, Kailyn, Yamins, Daniel L. K., and DiCarlo, James J. [**Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?**](https://www.biorxiv.org/content/10.1101/407007) bioRxiv (2018)
+
 Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. [**Towards deep learning with segregated dendrites.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716677/) ELife (2017).
 
 Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems**](https://arxiv.org/abs/1609.09059) arXiv (2017)
@@ -125,6 +127,8 @@ Lillicrap, T.P., Santoro, A., Marris, L., Akerman, C.J. & Hinton, G. [**Backprop
 Saxe, A., Nelli, S. & Summerfield, C. [**If deep learning is the answer, then what is the question?**](https://arxiv.org/abs/2004.07580) arXiv, (2020)
 
 Hasson, U., Nastase, S. A., & Goldstein, A. [**Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks.**](https://www.sciencedirect.com/science/article/abs/pii/S089662731931044X) Neuron (2020)
+
+Schrimpf, M., Kubilius, J., Lee, M. J., Ratan Murty, N. A., Ajemian, R., & DiCarlo, J. J. [**Integrative Benchmarking to Advance Neurally Mechanistic Models of Human Intelligence.**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30605-X) Neuron (2020)
 
 Storrs, K. R., & Kriegeskorte, N. [**Deep learning for cognitive neuroscience.**](https://arxiv.org/pdf/1903.01458.pdf) arXiv (2019)
 
