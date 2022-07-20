@@ -14,6 +14,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contributions to category learning**](https://www.biorxiv.org/content/10.1101/2022.01.12.476051v1.full.pdf) bioRxiv (2022)
 
+Conwell, C., Mayo, D., Barbu, A., Buice, M., Alvarez, G., & Katz, B. [**Neural regression, representational similarity, model zoology & neural taskonomy at scale in rodent visual cortex**](https://proceedings.neurips.cc/paper/2021/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf) NeurIPS (2021)
+
 Whittington, J. C., Warren, J., & Behrens, T. E. [**Relating transformers to models and neural representations of the hippocampal formation**](https://arxiv.org/abs/2112.04035) arXiv (2021)
 
 Schrimpf, M., Blank, I. A., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N., ... & Fedorenko, E. [**The neural architecture of language: Integrative modeling converges on predictive processing**](https://evlab.mit.edu/assets/papers/Schrimpf_et_al_2021_PNAS.pdf) PNAS (2021)
