@@ -105,6 +105,8 @@ Banino, Andrea, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap
 
 Schrimpf, Martin, Kubilius, Jonas, Hong, Ha, Majaj, Najib J., Rajalingham, Rishi, Issa, Elias B., Kar, Kohitij, Bashivan, Pouya, Prescott-Roy, Jonathan, Geiger, Franziska, Schmidt, Kailyn, Yamins, Daniel L. K., and DiCarlo, James J. [**Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?**](https://www.biorxiv.org/content/10.1101/407007) bioRxiv (2018)
 
+Kell, A. J., Yamins, D. L., Shook, E. N., Norman-Haignere, S. V., & McDermott, J. H. [**A task-optimized neural network replicates human auditory behavior, predicts brain responses, and reveals a cortical processing hierarchy**](https://www.sciencedirect.com/science/article/pii/S0896627318302502) Neuron (2018)
+
 Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. [**Towards deep learning with segregated dendrites.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716677/) ELife (2017).
 
 Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems**](https://arxiv.org/abs/1609.09059) arXiv (2017)
