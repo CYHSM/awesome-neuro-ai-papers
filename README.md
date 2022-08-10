@@ -120,6 +120,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+Lindsay, G. W. [**Convolutional neural networks as a model of the visual system: Past, present, and future**](https://arxiv.org/pdf/2001.07092.pdf) arXiv (2021)
+
 Hasselmo, M. E., Alexander, A. S., Hoyland, A., Robinson, J. C., Bezaire, M. J., Chapman, G. W., ... & Dannenberg, H. [**The Unexplored Territory of Neural Models: Potential Guides for Exploring the Function of Metabotropic Neuromodulation**](https://www.sciencedirect.com/science/article/abs/pii/S0306452220302141) Neuroscience (2021)
 
 Bermudez-Contreras, E., Clark, B.J., Wilber, A. [**The Neuroscience of Spatial Navigation and the Relationship to Artificial Intelligence**](https://www.frontiersin.org/articles/10.3389/fncom.2020.00063/full) Front. Comput. Neurosci. (2020)
