@@ -12,7 +12,11 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., ... & King, J. R. [**Toward a realistic model of speech processing in the brain with self-supervised learning**](https://arxiv.org/abs/2206.01685) arXiv (2022)
+
 Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contributions to category learning**](https://www.biorxiv.org/content/10.1101/2022.01.12.476051v1.full.pdf) bioRxiv (2022)
+
+Bakhtiari, S., Mineault, P., Lillicrap, T., Pack, C., & Richards, B. [**The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning**](https://www.biorxiv.org/content/10.1101/2021.06.18.448989v3.full) NeurIPS (2021)
 
 Conwell, C., Mayo, D., Barbu, A., Buice, M., Alvarez, G., & Katz, B. [**Neural regression, representational similarity, model zoology & neural taskonomy at scale in rodent visual cortex**](https://proceedings.neurips.cc/paper/2021/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf) NeurIPS (2021)
 
