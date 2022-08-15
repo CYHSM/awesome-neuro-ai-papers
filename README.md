@@ -164,8 +164,6 @@ Marblestone, Adam H., Greg Wayne, and Konrad P. Kording. [**Toward an integratio
 
 Mineault, Patrick [**What’s the endgame of neuroAI?**](https://xcorr.net/2022/05/18/whats-the-endgame-of-neuroai/) (2022)
 
-Hoover, Benjamin, Yuchen Liang, Chaitanya K. Ryali, Leopold Grinberg, Hendrik Strobelt, Saket Navlakha, Mohammed J. Zaki, Dmitry Krotov. [**Can a Fruit Fly Learn Word Embeddings?**](https://flyvec.vizhub.ai/) (2021)
-
 Mineault, Patrick [**Unsupervised models of the brain**](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/) (2021)
 
 Dettmers, Tim [**The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near**](https://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity) (2015)
