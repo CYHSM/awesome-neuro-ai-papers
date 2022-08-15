@@ -20,9 +20,15 @@ Bakhtiari, S., Mineault, P., Lillicrap, T., Pack, C., & Richards, B. [**The func
 
 Conwell, C., Mayo, D., Barbu, A., Buice, M., Alvarez, G., & Katz, B. [**Neural regression, representational similarity, model zoology & neural taskonomy at scale in rodent visual cortex**](https://proceedings.neurips.cc/paper/2021/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf) NeurIPS (2021)
 
+Krotov, Dmitry. [**Hierarchical associative memory**](https://arxiv.org/abs/2107.06446) arXiv (2021)
+
+Krotov, Dmitry, and John Hopfield. [**Large associative memory problem in neurobiology and machine learning**](https://arxiv.org/abs/2008.06996) ICLR (2021)
+
 Whittington, J. C., Warren, J., & Behrens, T. E. [**Relating transformers to models and neural representations of the hippocampal formation**](https://arxiv.org/abs/2112.04035) arXiv (2021)
 
 Schrimpf, M., Blank, I. A., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N., ... & Fedorenko, E. [**The neural architecture of language: Integrative modeling converges on predictive processing**](https://evlab.mit.edu/assets/papers/Schrimpf_et_al_2021_PNAS.pdf) PNAS (2021)
+
+Liang, Yuchen, Chaitanya K. Ryali, Benjamin Hoover, Leopold Grinberg, Saket Navlakha, Mohammed J. Zaki, and Dmitry Krotov. [**Can a Fruit Fly Learn Word Embeddings?**](https://arxiv.org/abs/2101.06887) ICLR (2021)
 
 Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. [**The Tolman-Eichenbaum machine: Unifying space and relational memory through generalization in the hippocampal formation**](https://www.sciencedirect.com/science/article/pii/S009286742031388X) Cell (2020)
 
