@@ -151,4 +151,9 @@ Lake, Brenden M., Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. 
 Marblestone, Adam H., Greg Wayne, and Konrad P. Kording. [**Toward an integration of deep learning and neuroscience.**](https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full) Frontiers in computational neuroscience (2016)
 
 # Blogs
+
+Mineault, Patrick [**What’s the endgame of neuroAI?**](https://xcorr.net/2022/05/18/whats-the-endgame-of-neuroai/) (2022)
+
+Mineault, Patrick [**Unsupervised models of the brain**](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/) (2021)
+
 Dettmers, Tim [**The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near**](https://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity) (2015)
