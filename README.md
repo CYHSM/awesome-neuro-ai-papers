@@ -161,3 +161,9 @@ Mineault, Patrick [**What’s the endgame of neuroAI?**](https://xcorr.net/2022/
 Mineault, Patrick [**Unsupervised models of the brain**](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/) (2021)
 
 Dettmers, Tim [**The Brain vs Deep Learning Part I: Computational Complexity — Or Why the Singularity Is Nowhere Near**](https://timdettmers.com/2015/07/27/brain-vs-deep-learning-singularity) (2015)
+
+# More awesome lists
+
+ Anna Wolff, Martin Hebart. [**DNN vs. Brain and Behavior**](https://vicco-group.github.io/DNN_vs_brain-and-behavior/) 
+ 
+ Francesco Innocenti. [**Neuro-AI papers**](https://github.com/FrancescoInnocenti/Neuro_AI_Papers)
