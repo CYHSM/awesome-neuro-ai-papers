@@ -134,6 +134,12 @@ Güçlü, Umut, and Marcel AJ van Gerven. [**Deep neural networks reveal a gradi
 Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Ethan A. Solomon, Najib J. Majaj, and James J. DiCarlo. [**Deep neural networks rival the representation of primate IT cortex for core visual object recognition.**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003963) PLoS computational biology (2014)
 
 
+Liu, Helena Y., Stephen Smith, Stefan Mihalas, Eric Shea-Brown, and Uygar Sümbül [**Cell-type–specific neuromodulation guides synaptic credit assignment in a spiking neural network.**](https://www.pnas.org/doi/10.1073/pnas.2111821118) Proceedings of the National Academy of Sciences of the United States of America (2021)
+
+Schmidgall, Samuel, and Joe Hays. [**Learning to learn online with neuromodulated synaptic plasticity in spiking neural networks
+.**](https://www.biorxiv.org/content/10.1101/2022.06.24.497562v1) bioRxiv (2022)
+
+
 # Reviews
 
 Lindsay, G. W. [**Convolutional neural networks as a model of the visual system: Past, present, and future**](https://arxiv.org/pdf/2001.07092.pdf) arXiv (2021)
