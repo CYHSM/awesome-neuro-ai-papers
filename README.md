@@ -30,6 +30,8 @@ Schrimpf, M., Blank, I. A., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N
 
 Liang, Yuchen, Chaitanya K. Ryali, Benjamin Hoover, Leopold Grinberg, Saket Navlakha, Mohammed J. Zaki, and Dmitry Krotov. [**Can a Fruit Fly Learn Word Embeddings?**](https://arxiv.org/abs/2101.06887) ICLR (2021)
 
+George, D., Rikhye, R. V., Gothoskar, N., Guntupalli, J. S., Dedieu, A., & Lázaro-Gredilla, M. [**Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps**](https://www.nature.com/articles/s41467-021-22559-5) Nature communications (2021)
+
 Whittington, J. C., Muller, T. H., Mark, S., Chen, G., Barry, C., Burgess, N., & Behrens, T. E. [**The Tolman-Eichenbaum machine: Unifying space and relational memory through generalization in the hippocampal formation**](https://www.sciencedirect.com/science/article/pii/S009286742031388X) Cell (2020)
 
 Banino, A., Badia, A. P., Köster, R., Chadwick, M. J., Zambaldi, V., Hassabis, D. & Blundell, C. [**Memo: A deep network for flexible combination of episodic memories**](https://arxiv.org/abs/2001.10913) arXiv (2020)
@@ -53,6 +55,8 @@ Geirhos, R., Narayanappa, K., Mitzkus, B., Bethge, M., Wichmann, F. A., & Brende
 Storrs, K. R., Kietzmann, T. C., Walther, A., Mehrer, J., & Kriegeskorte, N. [**Diverse deep neural networks all predict human IT well, after training and fitting**](https://www.biorxiv.org/content/10.1101/2020.05.07.082743v1.abstract) bioRxiv (2020)
 
 Yonatan Sanz Perl, Hernán Boccacio, Ignacio Pérez-Ipiña, Federico Zamberlán, Helmut Laufs, Morten Kringelbach, Gustavo Deco, Enzo Tagliazucchi [**Generative embeddings of brain collective dynamics using variational autoencoders**](https://arxiv.org/pdf/2007.01378.pdf) arXiv (2020)
+
+George, D., Lazaro-Gredilla, M., Lehrach, W., Dedieu, A., & Zhou, G. [**A detailed mathematical theory of thalamic and cortical microcircuits based on inference in a generative vision model**](https://www.biorxiv.org/content/10.1101/2020.09.09.290601v1.abstract) bioRxiv (2020)
 
 van Bergen, R. S., & Kriegeskorte, N. [**Going in circles is the way forward: the role of recurrence in visual inference**](https://arxiv.org/pdf/2003.12128.pdf) arXiv (2020)
 
@@ -120,6 +124,8 @@ Kell, A. J., Yamins, D. L., Shook, E. N., Norman-Haignere, S. V., & McDermott, J
 Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. [**Towards deep learning with segregated dendrites.**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5716677/) ELife (2017).
 
 Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems**](https://arxiv.org/abs/1609.09059) arXiv (2017)
+
+George, D., Lehrach, W., Kansky, K., Lázaro-Gredilla, M., Laan, C., Marthi, B., ... & Phoenix, D. S. [**A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs**](https://www.science.org/doi/full/10.1126/science.aag2612) Science (2017)
 
 Bengio, Yoshua, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [**Towards biologically plausible deep learning.**](https://arxiv.org/abs/1502.04156) arXiv (2015).
 
