@@ -16,6 +16,9 @@ Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., .
 
 Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contributions to category learning**](https://www.biorxiv.org/content/10.1101/2022.01.12.476051v1.full.pdf) bioRxiv (2022)
 
+Schmidgall, Samuel, and Joe Hays. [**Learning to learn online with neuromodulated synaptic plasticity in spiking neural networks
+.**](https://www.biorxiv.org/content/10.1101/2022.06.24.497562v1) bioRxiv (2022)
+
 Bakhtiari, S., Mineault, P., Lillicrap, T., Pack, C., & Richards, B. [**The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning**](https://www.biorxiv.org/content/10.1101/2021.06.18.448989v3.full) NeurIPS (2021)
 
 Conwell, C., Mayo, D., Barbu, A., Buice, M., Alvarez, G., & Katz, B. [**Neural regression, representational similarity, model zoology & neural taskonomy at scale in rodent visual cortex**](https://proceedings.neurips.cc/paper/2021/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf) NeurIPS (2021)
@@ -29,6 +32,8 @@ Whittington, J. C., Warren, J., & Behrens, T. E. [**Relating transformers to mod
 Schrimpf, M., Blank, I. A., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N., ... & Fedorenko, E. [**The neural architecture of language: Integrative modeling converges on predictive processing**](https://evlab.mit.edu/assets/papers/Schrimpf_et_al_2021_PNAS.pdf) PNAS (2021)
 
 Liang, Yuchen, Chaitanya K. Ryali, Benjamin Hoover, Leopold Grinberg, Saket Navlakha, Mohammed J. Zaki, and Dmitry Krotov. [**Can a Fruit Fly Learn Word Embeddings?**](https://arxiv.org/abs/2101.06887) ICLR (2021)
+
+Liu, Helena Y., Stephen Smith, Stefan Mihalas, Eric Shea-Brown, and Uygar Sümbül [**Cell-type–specific neuromodulation guides synaptic credit assignment in a spiking neural network.**](https://www.pnas.org/doi/10.1073/pnas.2111821118) Proceedings of the National Academy of Sciences of the United States of America (2021)
 
 George, D., Rikhye, R. V., Gothoskar, N., Guntupalli, J. S., Dedieu, A., & Lázaro-Gredilla, M. [**Clone-structured graph representations enable flexible learning and vicarious evaluation of cognitive maps**](https://www.nature.com/articles/s41467-021-22559-5) Nature communications (2021)
 
