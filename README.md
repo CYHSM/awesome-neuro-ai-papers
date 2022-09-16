@@ -136,6 +136,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+Doerig, A., Sommers, R., Seeliger, K., Richards, B., Ismael, J., Lindsay, G., ... & Kietzmann, T. C. [**The neuroconnectionist research programme**](https://arxiv.org/abs/2209.03718) arXiv (2022)
+
 Lindsay, G. W. [**Convolutional neural networks as a model of the visual system: Past, present, and future**](https://arxiv.org/pdf/2001.07092.pdf) arXiv (2021)
 
 Hasselmo, M. E., Alexander, A. S., Hoyland, A., Robinson, J. C., Bezaire, M. J., Chapman, G. W., ... & Dannenberg, H. [**The Unexplored Territory of Neural Models: Potential Guides for Exploring the Function of Metabotropic Neuromodulation**](https://www.sciencedirect.com/science/article/abs/pii/S0306452220302141) Neuroscience (2021)
