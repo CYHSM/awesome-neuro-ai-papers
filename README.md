@@ -132,6 +132,8 @@ Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypoth
 
 George, D., Lehrach, W., Kansky, K., Lázaro-Gredilla, M., Laan, C., Marthi, B., ... & Phoenix, D. S. [**A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs**](https://www.science.org/doi/full/10.1126/science.aag2612) Science (2017)
 
+DeWolf, T., Stewart, T. C., Slotine, J. J., & Eliasmith, C. [**A spiking neural model of adaptive arm control**](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2134) Proceedings of the Royal Society B: Biological Sciences, (2016)
+
 Bengio, Yoshua, Dong-Hyun Lee, Jorg Bornschein, Thomas Mesnard, and Zhouhan Lin. [**Towards biologically plausible deep learning.**](https://arxiv.org/abs/1502.04156) arXiv (2015).
 
 Güçlü, Umut, and Marcel AJ van Gerven. [**Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream.**](http://www.jneurosci.org/content/35/27/10005) Journal of Neuroscience (2015)
