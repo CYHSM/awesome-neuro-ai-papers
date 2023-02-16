@@ -12,12 +12,16 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Raju, R. V., Guntupalli, J. S., Zhou, G., Lázaro-Gredilla, M., & George, D. [**Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus**](https://arxiv.org/pdf/2212.01508.pdf) arXiv (2022)
+
 Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., ... & King, J. R. [**Toward a realistic model of speech processing in the brain with self-supervised learning**](https://arxiv.org/abs/2206.01685) arXiv (2022)
 
 Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contributions to category learning**](https://www.biorxiv.org/content/10.1101/2022.01.12.476051v1.full.pdf) bioRxiv (2022)
 
 Schmidgall, Samuel, and Joe Hays. [**Learning to learn online with neuromodulated synaptic plasticity in spiking neural networks
 .**](https://www.biorxiv.org/content/10.1101/2022.06.24.497562v1) bioRxiv (2022)
+
+Adolfi, F., Bowers, J. S., & Poeppel, D. [**Successes and critical failures of neural networks in capturing human-like speech recognition**](https://arxiv.org/abs/2204.03740) arXiv (2022)
 
 Bakhtiari, S., Mineault, P., Lillicrap, T., Pack, C., & Richards, B. [**The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning**](https://www.biorxiv.org/content/10.1101/2021.06.18.448989v3.full) NeurIPS (2021)
 
@@ -28,6 +32,8 @@ Krotov, Dmitry. [**Hierarchical associative memory**](https://arxiv.org/abs/2107
 Krotov, Dmitry, and John Hopfield. [**Large associative memory problem in neurobiology and machine learning**](https://arxiv.org/abs/2008.06996) ICLR (2021)
 
 Whittington, J. C., Warren, J., & Behrens, T. E. [**Relating transformers to models and neural representations of the hippocampal formation**](https://arxiv.org/abs/2112.04035) arXiv (2021)
+
+Nonaka, S., Majima, K., Aoki, S. C., & Kamitani, Y. [**Brain hierarchy score: Which deep neural networks are hierarchically brain-like?**](https://www.sciencedirect.com/science/article/pii/S2589004221009810) IScience (2021)
 
 Schrimpf, M., Blank, I. A., Tuckute, G., Kauf, C., Hosseini, E. A., Kanwisher, N., ... & Fedorenko, E. [**The neural architecture of language: Integrative modeling converges on predictive processing**](https://evlab.mit.edu/assets/papers/Schrimpf_et_al_2021_PNAS.pdf) PNAS (2021)
 
@@ -142,6 +148,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 
 # Reviews
+
+Zador, A., Richards, B., Ölveczky, B., Escola, S., Bengio, Y., Boahen, K., ... & Tsao, D. [**Toward next-generation artificial intelligence: catalyzing the NeuroAI revolution**](https://arxiv.org/abs/2210.08340) arXiv (2022)
 
 Doerig, A., Sommers, R., Seeliger, K., Richards, B., Ismael, J., Lindsay, G., ... & Kietzmann, T. C. [**The neuroconnectionist research programme**](https://arxiv.org/abs/2209.03718) arXiv (2022)
 
