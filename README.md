@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Schneider, S., Lee, J. H., & Mathis, M. W. [**Learnable latent embeddings for joint behavioral and neural analysis**](https://arxiv.org/abs/2204.00673) arXiv (2022)
+
 Raju, R. V., Guntupalli, J. S., Zhou, G., Lázaro-Gredilla, M., & George, D. [**Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus**](https://arxiv.org/pdf/2212.01508.pdf) arXiv (2022)
 
 Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., ... & King, J. R. [**Toward a realistic model of speech processing in the brain with self-supervised learning**](https://arxiv.org/abs/2206.01685) arXiv (2022)
