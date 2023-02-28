@@ -171,6 +171,8 @@ Hasson, U., Nastase, S. A., & Goldstein, A. [**Direct Fit to Nature: An Evolutio
 
 Schrimpf, M., Kubilius, J., Lee, M. J., Ratan Murty, N. A., Ajemian, R., & DiCarlo, J. J. [**Integrative Benchmarking to Advance Neurally Mechanistic Models of Human Intelligence.**](https://www.cell.com/neuron/fulltext/S0896-6273(20)30605-X) Neuron (2020)
 
+Merel, J., Botvinick, M., & Wayne, G. [**Hierarchical motor control in mammals and machines**](https://www.nature.com/articles/s41467-019-13239-6) Nature communications (2019)
+
 Storrs, K. R., & Kriegeskorte, N. [**Deep learning for cognitive neuroscience.**](https://arxiv.org/pdf/1903.01458.pdf) arXiv (2019)
 
 Zador, M.Z. [**A critique of pure learning and what artificial neural networks can learn from animal brains**](https://www.nature.com/articles/s41467-019-11786-6), Nature Communications, (2019)
