@@ -18,6 +18,8 @@ Raju, R. V., Guntupalli, J. S., Zhou, G., Lázaro-Gredilla, M., & George, D. [**
 
 Millet, J., Caucheteux, C., Orhan, P., Boubenec, Y., Gramfort, A., Dunbar, E., ... & King, J. R. [**Toward a realistic model of speech processing in the brain with self-supervised learning**](https://arxiv.org/abs/2206.01685) arXiv (2022)
 
+Ivanova, A. A., Schrimpf, M., Anzellotti, S., Zaslavsky, N., Fedorenko, E., & Isik, L. [**Beyond linear regression: mapping models in cognitive neuroscience should align with research goals**](https://arxiv.org/abs/2208.10668) arXiv (2022)
+
 Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contributions to category learning**](https://www.biorxiv.org/content/10.1101/2022.01.12.476051v1.full.pdf) bioRxiv (2022)
 
 Schmidgall, Samuel, and Joe Hays. [**Learning to learn online with neuromodulated synaptic plasticity in spiking neural networks
