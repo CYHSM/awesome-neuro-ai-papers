@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Spieler, A., Rahaman, N., Martius, G., Schölkopf, B., & Levina, A. [**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**](https://arxiv.org/pdf/2306.16922.pdf) arXiv (2023)
+
 Schneider, S., Lee, J. H., & Mathis, M. W. [**Learnable latent embeddings for joint behavioral and neural analysis**](https://arxiv.org/abs/2204.00673) arXiv (2022)
 
 Raju, R. V., Guntupalli, J. S., Zhou, G., Lázaro-Gredilla, M., & George, D. [**Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus**](https://arxiv.org/pdf/2212.01508.pdf) arXiv (2022)
