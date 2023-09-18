@@ -157,6 +157,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+Gebicke-Haerter, P. J. [**The computational power of the human brain**](https://www.frontiersin.org/articles/10.3389/fncel.2023.1220030/full) Frontiers in Cellular Neuroscience (2023)
+
 Zhao, L., Zhang, L., Wu, Z., Chen, Y., Dai, H., Yu, X., ... & Liu, T. [**When brain-inspired AI meets AGI**](https://arxiv.org/pdf/2303.15935.pdf) arXiv (2023)
 
 Zador, A., Richards, B., Ölveczky, B., Escola, S., Bengio, Y., Boahen, K., ... & Tsao, D. [**Toward next-generation artificial intelligence: catalyzing the NeuroAI revolution**](https://arxiv.org/abs/2210.08340) arXiv (2022)
