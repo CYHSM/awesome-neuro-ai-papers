@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., Conerly, T., ... & Olah, C. [**Towards monosemanticity: Decomposing language models with dictionary learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Transformer Circuits Thread (2023)
+
 Spieler, A., Rahaman, N., Martius, G., Schölkopf, B., & Levina, A. [**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**](https://arxiv.org/pdf/2306.16922.pdf) arXiv (2023)
 
 Schneider, S., Lee, J. H., & Mathis, M. W. [**Learnable latent embeddings for joint behavioral and neural analysis**](https://arxiv.org/abs/2204.00673) arXiv (2022)
