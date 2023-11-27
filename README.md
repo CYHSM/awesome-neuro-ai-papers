@@ -90,6 +90,8 @@ Kubilius, J., Schrimpf, M., Kar, K., Rajalingham, R., Hong, H., Majaj, N. & DiCa
 
 Barrett, D. G., Morcos, A. S., & Macke, J. H. [**Analyzing biological and artificial neural networks: challenges with opportunities for synergy?**](https://www.sciencedirect.com/science/article/pii/S0959438818301569) Current opinion in neurobiology (2019)
 
+Lillicrap, T. P., & Kording, K. P. [**What does it mean to understand a neural network?**](https://arxiv.org/pdf/1907.06374.pdf) arXiv (2019)
+
 Stringer, C., Pachitariu, M., Steinmetz, N., Carandini, M., & Harris, K. D. [**High-dimensional geometry of population responses in visual cortex**](https://www.nature.com/articles/s41586-019-1346-5) Nature (2019)
 
 Beniaguev David, Segev Idan, London Michael
