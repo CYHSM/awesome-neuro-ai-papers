@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Xiao, Y., Zhang, Y., Peng, X., Han, S., Zheng, X., Fang, D. and Chen, X., 2024. [**Multi-Source EEG Emotion Recognition via Dynamic Contrastive Domain Adaptation**]([https://export.arxiv.org/pdf/2408.10235](https://arxiv.org/pdf/2408.10235)). arXiv preprint arXiv:2408.10235.
+
 Veerabadran, V., Goldman, J., Shankar, S., Cheung, B., Papernot, N., Kurakin, A., ... & Elsayed, G. F. [**Subtle adversarial image manipulations influence both human and machine perception**](https://www.nature.com/articles/s41467-023-40499-0) Nature Communications (2023)
 
 Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., Conerly, T., ... & Olah, C. [**Towards monosemanticity: Decomposing language models with dictionary learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Transformer Circuits Thread (2023)
