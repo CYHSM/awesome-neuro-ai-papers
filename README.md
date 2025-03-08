@@ -16,6 +16,8 @@ Veerabadran, V., Goldman, J., Shankar, S., Cheung, B., Papernot, N., Kurakin, A.
 
 Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., Conerly, T., ... & Olah, C. [**Towards monosemanticity: Decomposing language models with dictionary learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Transformer Circuits Thread (2023)
 
+Veerabadran, V., Goldman, J., Shankar, S., Cheung, B., Papernot, N., Kurakin, A., ... & Elsayed, G. F. [**Subtle adversarial image manipulations influence both human and machine perception**](https://www.nature.com/articles/s41467-023-40499-0) Nature Communications (2023)
+
 Spieler, A., Rahaman, N., Martius, G., Schölkopf, B., & Levina, A. [**The ELM Neuron: an Efficient and Expressive Cortical Neuron Model Can Solve Long-Horizon Tasks**](https://arxiv.org/pdf/2306.16922.pdf) arXiv (2023)
 
 Schneider, S., Lee, J. H., & Mathis, M. W. [**Learnable latent embeddings for joint behavioral and neural analysis**](https://arxiv.org/abs/2204.00673) arXiv (2022)
@@ -30,6 +32,8 @@ Sucevic, J., & Schapiro, A. C. [**A neural network model of hippocampal contribu
 
 Schmidgall, Samuel, and Joe Hays. [**Learning to learn online with neuromodulated synaptic plasticity in spiking neural networks
 .**](https://www.biorxiv.org/content/10.1101/2022.06.24.497562v1) bioRxiv (2022)
+
+Caucheteux, C., & King, J. R. [**Brains and algorithms partially converge in natural language processing**](https://www.nature.com/articles/s42003-022-03036-1) Communications Biology (2022)
 
 Adolfi, F., Bowers, J. S., & Poeppel, D. [**Successes and critical failures of neural networks in capturing human-like speech recognition**](https://arxiv.org/abs/2204.03740) arXiv (2022)
 
@@ -138,6 +142,8 @@ Russin, Jake, Jason Jo, and Randall C. O'Reilly. [**Compositional generalization
 
 Rajalingham, Rishi, Elias B. Issa, Pouya Bashivan, Kohitij Kar, Kailyn Schmidt, and James J. DiCarlo. [**Large-scale, high-resolution comparison of the core visual object recognition behavior of humans, monkeys, and state-of-the-art deep artificial neural networks.**](http://www.jneurosci.org/content/38/33/7255) Journal of Neuroscience (2018)
 
+Wang, J. X., Kurth-Nelson, Z., Kumaran, D., Tirumala, D., Soyer, H., Leibo, J. Z., & Botvinick, M. [**Prefrontal cortex as a meta-reinforcement learning system**](https://www.nature.com/articles/s41593-018-0147-8) Nature Neuroscience (2018)
+
 Eslami, SM Ali, Danilo Jimenez Rezende, Frederic Besse, Fabio Viola, Ari S. Morcos, Marta Garnelo, Avraham Ruderman et al. [**Neural scene representation and rendering.**](https://science.sciencemag.org/content/360/6394/1204) Science (2018)
 
 Banino, Andrea, Caswell Barry, Benigno Uria, Charles Blundell, Timothy Lillicrap, Piotr Mirowski, Alexander Pritzel et al. [**Vector-based navigation using grid-like representations in artificial agents.**](https://www.nature.com/articles/s41586-018-0102-6) Nature (2018)
@@ -151,6 +157,8 @@ Guerguiev, Jordan, Timothy P. Lillicrap, and Blake A. Richards. [**Towards deep 
 Kanitscheider, I., & Fiete, I. [**Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems**](https://arxiv.org/abs/1609.09059) arXiv (2017)
 
 George, D., Lehrach, W., Kansky, K., Lázaro-Gredilla, M., Laan, C., Marthi, B., ... & Phoenix, D. S. [**A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs**](https://www.science.org/doi/full/10.1126/science.aag2612) Science (2017)
+
+Yamins, D. L., & DiCarlo, J. J. [**Using goal-driven deep learning models to understand sensory cortex**](https://www.nature.com/articles/nn.4244) Nature Neuroscience (2016)
 
 DeWolf, T., Stewart, T. C., Slotine, J. J., & Eliasmith, C. [**A spiking neural model of adaptive arm control**](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.2134) Proceedings of the Royal Society B: Biological Sciences, (2016)
 
