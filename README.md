@@ -12,6 +12,18 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Granier, A., & Senn, W. [**Multihead self-attention in cortico-thalamic circuits**](https://arxiv.org/abs/2504.06354) arXiv (2025)
+
+Hagendorff, T., Dasgupta, I., Binz, M., Chan, S. C., Lampinen, A., Wang, J. X., ... & Schulz, E. [**Machine psychology**](https://arxiv.org/abs/2303.13988) arXiv (2025)
+
+AlKhamissi, B., Tuckute, G., Bosselut, A., & Schrimpf, M. [**The LLM Language Network: A neuroscientific approach for identifying causally task-relevant units**](https://arxiv.org/abs/2411.02280) arXiv (NAACL 2025)
+
+Rathi, N., Mehrer, J., AlKhamissi, B., Binhuraib, F. S., Blauch, N. M., Pienkowski, M., & Schrimpf, M. [**TopoLM: Brain-Like Spatio-Functional Organization in a Topographic Language Model**](https://arxiv.org/abs/2410.11516) arXiv (ICLR 2025)
+
+Mineault, P., Baset, Z. A., Bena, J., Berent, I., Broad, A., Deo, R., ... & Zador, A. [**NeuroAI for AI Safety**](https://arxiv.org/abs/2411.18526) arXiv (2024)
+
+Hwang, J., Hong, Z.-W., Chen, E. R., Boopathy, A., Agrawal, P., & Fiete, I. R. [**Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building**](https://arxiv.org/html/2307.05793v3) arXiv (2024)
+
 Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., Conerly, T., ... & Olah, C. [**Towards monosemanticity: Decomposing language models with dictionary learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Transformer Circuits Thread (2023)
 
 Veerabadran, V., Goldman, J., Shankar, S., Cheung, B., Papernot, N., Kurakin, A., ... & Elsayed, G. F. [**Subtle adversarial image manipulations influence both human and machine perception**](https://www.nature.com/articles/s41467-023-40499-0) Nature Communications (2023)
