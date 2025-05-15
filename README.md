@@ -12,8 +12,6 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
-Veerabadran, V., Goldman, J., Shankar, S., Cheung, B., Papernot, N., Kurakin, A., ... & Elsayed, G. F. [**Subtle adversarial image manipulations influence both human and machine perception**](https://www.nature.com/articles/s41467-023-40499-0) Nature Communications (2023)
-
 Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., Conerly, T., ... & Olah, C. [**Towards monosemanticity: Decomposing language models with dictionary learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Transformer Circuits Thread (2023)
 
 Veerabadran, V., Goldman, J., Shankar, S., Cheung, B., Papernot, N., Kurakin, A., ... & Elsayed, G. F. [**Subtle adversarial image manipulations influence both human and machine perception**](https://www.nature.com/articles/s41467-023-40499-0) Nature Communications (2023)
