@@ -12,9 +12,13 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Evanson, L., Bulteau, C., Chipaux, M., Dorfmüller, G., Ferrand-Sorbets, S., Raffo, E., Rosenberg, S., Bourdillon, P., King, J. R. [**Emergence of Language in the Developing Brain**](https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/) arXiv (2025)
+
 Granier, A., & Senn, W. [**Multihead self-attention in cortico-thalamic circuits**](https://arxiv.org/abs/2504.06354) arXiv (2025)
 
 Hagendorff, T., Dasgupta, I., Binz, M., Chan, S. C., Lampinen, A., Wang, J. X., ... & Schulz, E. [**Machine psychology**](https://arxiv.org/abs/2303.13988) arXiv (2025)
+
+Banville, H., Benchetrit, Y., d'Ascoli, S., Rapin, J., & King, J. R. [**Scaling laws for decoding images from brain activity**](https://arxiv.org/abs/2501.15322) arXiv (2025)
 
 AlKhamissi, B., Tuckute, G., Bosselut, A., & Schrimpf, M. [**The LLM Language Network: A neuroscientific approach for identifying causally task-relevant units**](https://arxiv.org/abs/2411.02280) arXiv (NAACL 2025)
 
