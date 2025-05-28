@@ -24,6 +24,8 @@ AlKhamissi, B., Tuckute, G., Bosselut, A., & Schrimpf, M. [**The LLM Language Ne
 
 Rathi, N., Mehrer, J., AlKhamissi, B., Binhuraib, F. S., Blauch, N. M., Pienkowski, M., & Schrimpf, M. [**TopoLM: Brain-Like Spatio-Functional Organization in a Topographic Language Model**](https://arxiv.org/abs/2410.11516) arXiv (ICLR 2025)
 
+Yu, M., Wang, D., Shan, Q., & Wan, A. [**The super weight in large language models**](https://arxiv.org/abs/2411.07191) arXiv (2024)
+
 Mineault, P., Baset, Z. A., Bena, J., Berent, I., Broad, A., Deo, R., ... & Zador, A. [**NeuroAI for AI Safety**](https://arxiv.org/abs/2411.18526) arXiv (2024)
 
 Hwang, J., Hong, Z.-W., Chen, E. R., Boopathy, A., Agrawal, P., & Fiete, I. R. [**Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building**](https://arxiv.org/html/2307.05793v3) arXiv (2024)
