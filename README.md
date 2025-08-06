@@ -2,7 +2,42 @@
 
 # Papers
 
+## Datasets
+
+Penedo, G., Kydlíček, H., Lozhkov, A., Mitchell, M., Raffel, C. A., Von Werra, L., & Wolf, T. [**The fineweb datasets: Decanting the web for the finest text data at scale**](https://proceedings.neurips.cc/paper_files/paper/2024/file/370df50ccfdf8bde18f8f9c2d9151bda-Paper-Datasets_and_Benchmarks_Track.pdf) NeurIPS (2024)
+<details>
+  <summary>Notes</summary>
+
+  - "FineWeb is sufficiently large to train a Chinchilla-optimal model with more than 500 billion parameters"
+</details>
+
+
+## Architecture
+
+Raschka, S. [**The Big LLM Architecture Comparison**](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison?s=03)
+<details>
+  <summary>Notes</summary>
+
+  - A shared expert is mostly used nowadays when running MoE models, as it improves performance. This is likely happening as the sparse experts have more capacity as it does not have to learn common knowledge (basic grammar or facts) so they are able to learn specialized knowledge.
+  - Olmo uses normalization *after* attention but within the residual stream, leading to less spikes in their loss curve (confounded with QK norm in the same run though)
+  - Gemma models are so good because of their large vocabulary size (256K) and their use of sliding window attention which drastically shrinks the memory consumption as it only attends to a local window around the current token. They also add normalization pre and post attention block. 
+  - The idea of Matformer is to pack a small/medium/large FFN block within one model that you can slice later. This works because the small model is part of every single optimization loop, so its forced to learn the most essential part of the representation because its parameters are involved in, and responsible for, the performance of all model sizes.
+  - Qwen3 moves away from using a shared expert in the MoE models
+</details>
+
 ## Pre-Training
+
+Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., ... & He, Y. [**Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning**](https://arxiv.org/pdf/2501.12948) arXiv (2025)
+<details>
+  <summary>Notes</summary>
+
+  - First large-scale open model to use GRPO to adapt their base model
+  - GRPO first generates multiple responses (to a given prompt), scoring them with a reward model, then adjusts the probability of each token choice to increase the likelihood of tokens that led to high-scoring responses and decrease the others.
+  - This model (R1-Zero) trained using GRPO already improves the score on AIME 2024 from 15.6% to 71.0%, however it shows poor readability and language mixing
+  - To fix this they do another RL round with cold start data (likely high quality text with well structured explanations)
+  - "Behaviors such as reflection—where the model revisits and reevaluates its previous steps—and the exploration of alternative approaches to problem-solving arise spontaneously"
+  - Rejection sampling: they filter out CoT with mixed languages, long paragraphs or code blocks and use this data as training samples.
+</details>
 
 Choi, D., Xin, D., Dadkhahi, H., Gilmer, J., Garg, A., Firat, O., ... & Ghorbani, B. [**Order matters in the presence of dataset imbalance for multilingual learning**](https://proceedings.neurips.cc/paper_files/paper/2023/file/d346609ec2fefd3938c898a0dda4a480-Paper-Conference.pdf) NeurIPS (2023)
 <details>
@@ -15,7 +50,6 @@ Choi, D., Xin, D., Dadkhahi, H., Gilmer, J., Garg, A., Firat, O., ... & Ghorbani
 and optimizer state when switching over to the joint fine-tuning phase
   - Why does it work better? "Pre-training utilizes positive transfer between tasks, and initializes the fine-tuning phase at a better starting point than random initialization"
   - A higher En→Ro sampling rate (e.g., 0.5) means that 50% of the training data the model sees at any given time are English-to-Romanian translation examples. If this rate is too high, it leads to overfitting, where the model memorizes the training data but fails to generalize to new, unseen examples.
-
 </details>
 
 ## Post Pre-Training
@@ -60,7 +94,11 @@ Target: "Paris"
 Wang, Y., Wu, S., Zhang, Y., Yan, S., Liu, Z., Luo, J., & Fei, H. [**Multimodal chain-of-thought reasoning: A comprehensive survey**](https://arxiv.org/pdf/2503.12605) arXiv (2025)
 <details>
   <summary>Notes</summary>
-  
+
+  - Review about multimodal chain-of-thought, with some nice figures and tabular overview, good start to find references
+  - Unrelated to the paper but in humans the anterior cingulate cortex would detect errors in reasoning
+  - Lets spin this a bit further:
+Sensory areas (like V1 for vision) process the initial information, then different areas process it further, e.g. Wernicke area for text or V4-IT for vision. The overall strategy is directed by the PFC. dlPFC keeps track of logical steps and manipulates information, while vmPFS weighs outcomes based on emotional or personal relevance. Then ACC acts as a conflict monitor. 
 </details>
 
 ## Hardware
