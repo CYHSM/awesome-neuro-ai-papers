@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+d'Ascoli, S., Rapin, J., Benchetrit, Y., Banville, H., & King, J. R. [**TRIBE: TRImodal Brain Encoder for whole-brain fMRI response prediction**](https://www.arxiv.org/abs/2507.22229) arXiv (2025)
+
 Evanson, L., Bulteau, C., Chipaux, M., Dorfmüller, G., Ferrand-Sorbets, S., Raffo, E., Rosenberg, S., Bourdillon, P., King, J. R. [**Emergence of Language in the Developing Brain**](https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/) arXiv (2025)
 
 Granier, A., & Senn, W. [**Multihead self-attention in cortico-thalamic circuits**](https://arxiv.org/abs/2504.06354) arXiv (2025)
