@@ -11,6 +11,7 @@
 This list is providing an overview of recent publications connecting neuroscience & computer science research. As both fields are growing rapidly this list is only presenting a small subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/CYHSM/awesome-neuro-ai-papers/pulls).
 
 # Papers
+Shams, S., Antonello, R., Mischler, G., Bickel, S., Mehta, A., Mesgarani, N. [**Neuro2Semantic: A Transfer Learning Framework for Semantic Reconstruction of Continuous Language from Human Intracranial EEG**](https://arxiv.org/abs/2505.12345) arXiv (Interspeech 2025)
 
 Pesnot Lerousseau, J., & Summerfield, C. [**Shared sensitivity to data distribution during learning in humans and transformer networks**](https://www.nature.com/articles/s41562-025-02359-3) Nature Human Behaviour (2025)
 
