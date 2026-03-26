@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Park, M. W. [**Anima (AnimaLM): Brain-Inspired Tension Dynamics Between Expert Groups in Neural Networks**](https://github.com/need-singularity/anima) GitHub (2026)
+
 Pesnot Lerousseau, J., & Summerfield, C. [**Shared sensitivity to data distribution during learning in humans and transformer networks**](https://www.nature.com/articles/s41562-025-02359-3) Nature Human Behaviour (2025)
 
 d'Ascoli, S., Rapin, J., Benchetrit, Y., Banville, H., & King, J. R. [**TRIBE: TRImodal Brain Encoder for whole-brain fMRI response prediction**](https://www.arxiv.org/abs/2507.22229) arXiv (2025)
