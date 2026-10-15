@@ -20,8 +20,6 @@ Evanson, L., Bulteau, C., Chipaux, M., Dorfmüller, G., Ferrand-Sorbets, S., Raf
 
 Granier, A., & Senn, W. [**Multihead self-attention in cortico-thalamic circuits**](https://arxiv.org/abs/2504.06354) arXiv (2025)
 
-Hagendorff, T., Dasgupta, I., Binz, M., Chan, S. C., Lampinen, A., Wang, J. X., ... & Schulz, E. [**Machine psychology**](https://arxiv.org/abs/2303.13988) arXiv (2025)
-
 Banville, H., Benchetrit, Y., d'Ascoli, S., Rapin, J., & King, J. R. [**Scaling laws for decoding images from brain activity**](https://arxiv.org/abs/2501.15322) arXiv (2025)
 
 AlKhamissi, B., Tuckute, G., Bosselut, A., & Schrimpf, M. [**The LLM Language Network: A neuroscientific approach for identifying causally task-relevant units**](https://arxiv.org/abs/2411.02280) arXiv (NAACL 2025)
@@ -33,6 +31,8 @@ Yu, M., Wang, D., Shan, Q., & Wan, A. [**The super weight in large language mode
 Mineault, P., Baset, Z. A., Bena, J., Berent, I., Broad, A., Deo, R., ... & Zador, A. [**NeuroAI for AI Safety**](https://arxiv.org/abs/2411.18526) arXiv (2024)
 
 Hwang, J., Hong, Z.-W., Chen, E. R., Boopathy, A., Agrawal, P., & Fiete, I. R. [**Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building**](https://arxiv.org/html/2307.05793v3) arXiv (2024)
+
+Hagendorff, T., Dasgupta, I., Binz, M., Chan, S. C., Lampinen, A., Wang, J. X., ... & Schulz, E. [**Machine psychology**](https://arxiv.org/abs/2303.13988) arXiv (2023)
 
 Bricken, T., Templeton, A., Batson, J., Chen, B., Jermyn, A., Conerly, T., ... & Olah, C. [**Towards monosemanticity: Decomposing language models with dictionary learning**](https://transformer-circuits.pub/2023/monosemantic-features/index.html) Transformer Circuits Thread (2023)
 
@@ -128,7 +128,7 @@ Beniaguev David, Segev Idan, London Michael
 Krotov, D. & Hopfield, J.J. [**Unsupervised learning by competing hidden units**](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) PNAS (2019)
 
 Guillaume Bellec, Franz Scherr, Anand Subramoney, Elias Hajek, Darjan Salaj, Robert Legenstein, Wolfgang Maass
-[**A solution to the learning dilemma for recurrent 2 networks of spiking neurons**](https://www.biorxiv.org/content/10.1101/738385v3) bioRxiv (2019)
+[**A solution to the learning dilemma for recurrent networks of spiking neurons**](https://www.biorxiv.org/content/10.1101/738385v3) bioRxiv (2019)
 
 Albert Gidon, Timothy Adam Zolnik, Pawel Fidzinski, Felix Bolduan, Athanasia Papoutsi, Panayiota Poirazi, Martin Holtkamp, Imre Vida, Matthew Evan Larkum [**Dendritic action potentials and computation in human layer 2/3 cortical neurons**](https://science.sciencemag.org/content/367/6473/83.long) Science (2019)
 
@@ -221,7 +221,7 @@ Merel, J., Botvinick, M., & Wayne, G. [**Hierarchical motor control in mammals a
 
 Storrs, K. R., & Kriegeskorte, N. [**Deep learning for cognitive neuroscience.**](https://arxiv.org/pdf/1903.01458.pdf) arXiv (2019)
 
-Zador, M.Z. [**A critique of pure learning and what artificial neural networks can learn from animal brains**](https://www.nature.com/articles/s41467-019-11786-6), Nature Communications, (2019)
+Zador, A. M. [**A critique of pure learning and what artificial neural networks can learn from animal brains**](https://www.nature.com/articles/s41467-019-11786-6), Nature Communications, (2019)
 
 Richards, Blake A., Timothy P. Lillicrap, Philippe Beaudoin, Yoshua Bengio, Rafal Bogacz, Amelia Christensen, Claudia Clopath et al. [**A deep learning framework for neuroscience.**](https://www.nature.com/articles/s41593-019-0520-2) Nature neuroscience (2019)
 
