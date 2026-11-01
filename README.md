@@ -12,6 +12,8 @@ This list is providing an overview of recent publications connecting neuroscienc
 
 # Papers
 
+Mueller, B. [**Cadence: an architecture for a continuous and efficient stream of intelligence**](https://philpapers.org/rec/MUECAP-2) PhilPapers (2026)
+
 Pesnot Lerousseau, J., & Summerfield, C. [**Shared sensitivity to data distribution during learning in humans and transformer networks**](https://www.nature.com/articles/s41562-025-02359-3) Nature Human Behaviour (2025)
 
 d'Ascoli, S., Rapin, J., Benchetrit, Y., Banville, H., & King, J. R. [**TRIBE: TRImodal Brain Encoder for whole-brain fMRI response prediction**](https://www.arxiv.org/abs/2507.22229) arXiv (2025)
